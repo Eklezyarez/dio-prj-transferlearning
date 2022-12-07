@@ -1,2 +1,2 @@
 ## Projeto de Transfer Learning em Python 
-### O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COL
+### O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente CO
